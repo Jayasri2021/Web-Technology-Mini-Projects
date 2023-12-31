@@ -72,7 +72,7 @@ This repository contains links to my mini front-end projects created using HTML,
 ---
 
 ### 12. Themed Analog Clock
-![Themed Analog Clock](./images/themed-analog-clock.png)
+![Themed Analog Clock](./images/themed-analog-clock-1.png)
 [View Repository](https://github.com/Jayasri2021/Themed-Analog-Clock)
 
 ---
@@ -147,7 +147,8 @@ This repository contains links to my mini front-end projects created using HTML,
 ---
 
 ### 24. Hiding Search Bar
-![Hiding Search Bar](./images/hiding-search-bar.png)
+![Hiding Search Bar](./images/hiding-search-bar-2.png)
+![Hiding Search Bar](./images/hiding-search-bar-1.png)
 [View Repository](https://github.com/Jayasri2021/Hiding-search-bar)
 
 ---
