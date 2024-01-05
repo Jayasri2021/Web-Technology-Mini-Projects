@@ -161,6 +161,12 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 27. Card Expansion
+![Card Expansion](./images/card-expansion.png)
+[View Repository](https://github.com/yourusername/card-expansion)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
