@@ -142,7 +142,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 23. Blur Page Loading
 ![Blur Page Loading](./images/blur-page-loading.png)
-[View Repository](https://github.com/yourusername/blur-page-loading)
+[View Repository](https://github.com/Jayasri2021/Blur-page-loading)
 
 ---
 
