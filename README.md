@@ -166,7 +166,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 27. Card Expansion
 ![Card Expansion](./images/card-expansion.png)
-[View Repository](https://github.com/yourusername/card-expansion)
+[View Repository](https://github.com/Jayasri2021/Card-Expansion)
 
 ---
 
