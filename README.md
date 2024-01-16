@@ -160,7 +160,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 26. Completion Steps
 ![Completion Steps](./images/completion-steps.png)
-[View Repository](https://github.com/yourusername/completion-steps)
+[View Repository](https://github.com/Jayasri2021/Completion-steps)
 
 ---
 
