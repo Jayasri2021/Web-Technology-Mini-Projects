@@ -116,7 +116,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 19. Dad Joke Generation
 ![Dad Joke Generation](./images/dad-joke-generation.png)
-[View Repository](https://github.com/yourusername/dad-joke-generation)
+[View Repository](https://github.com/Jayasri2021/Dad-Joke-Generation)
 
 ---
 
