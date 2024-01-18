@@ -110,7 +110,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 18. Event Key Code
 ![Event Key Code](./images/event-key-code.png)
-[View Repository](https://github.com/yourusername/event-key-code)
+[View Repository](https://github.com/Jayasri2021/Event-Key-Code)
 
 ---
 
