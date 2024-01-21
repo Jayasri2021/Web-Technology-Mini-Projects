@@ -148,7 +148,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 24. Hiding Search Bar
 ![Hiding Search Bar](./images/hiding-search-bar.png)
-[View Repository](https://github.com/yourusername/hiding-search-bar)
+[View Repository](https://github.com/Jayasri2021/Hiding-search-bar)
 
 ---
 
