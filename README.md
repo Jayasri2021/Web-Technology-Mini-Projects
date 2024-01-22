@@ -91,7 +91,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 15. Incremented Counter
 ![Incremented Counter](./images/incremented-counter.png)
-[View Repository](https://github.com/yourusername/incremented-counter)
+[View Repository](https://github.com/Jayasri2021/Incremented-Counter)
 
 ---
 
