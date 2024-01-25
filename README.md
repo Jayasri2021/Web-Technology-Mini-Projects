@@ -154,7 +154,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 25. Rotating Navigation
 ![Rotating Navigation](./images/rotating-navigation.png)
-[View Repository](https://github.com/yourusername/rotating-navigation)
+[View Repository](https://github.com/Jayasri2021/Rotating-Navigation)
 
 ---
 
