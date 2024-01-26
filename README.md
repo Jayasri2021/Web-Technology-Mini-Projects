@@ -73,7 +73,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 12. Themed Analog Clock
 ![Themed Analog Clock](./images/themed-analog-clock.png)
-[View Repository](https://github.com/yourusername/themed-analog-clock)
+[View Repository](https://github.com/Jayasri2021/Themed-Analog-Clock)
 
 ---
 
@@ -85,7 +85,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 14. Water Intake Measure
 ![Water Intake Measure](./images/water-intake-measure.png)
-[View Repository](https://github.com/yourusername/water-intake-measure)
+[View Repository](https://github.com/Jayasri2021/Water-Intake-Measure)
 
 ---
 
@@ -122,7 +122,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 20. Wave Form Page
 ![Wave Form Page](./images/wave-form-page.png)
-[View Repository](https://github.com/yourusername/wave-form-page)
+[View Repository](https://github.com/Jayasri2021/Wave-form-page)
 
 ---
 
