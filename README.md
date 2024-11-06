@@ -20,7 +20,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 3. Good-Okay-Bad
 ![Good-Okay-Bad](./images/good-okay-bad.png)
-[View Repository](https://github.com/yourusername/good-okay-bad)
+[View Repository](https://github.com/Jayasri2021/Good-Okay-Bad)
 
 ---
 
