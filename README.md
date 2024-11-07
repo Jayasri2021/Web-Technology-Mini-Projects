@@ -26,7 +26,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 4. Double Click Heart
 ![Double Click Heart](./images/double-click-heart.png)
-[View Repository](https://github.com/yourusername/double-click-heart)
+[View Repository](https://github.com/Jayasri2021/Double-Click-Heart)
 
 ---
 
