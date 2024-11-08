@@ -32,13 +32,13 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 5. Generating Password
 ![Generating Password](./images/generating-password.png)
-[View Repository](https://github.com/yourusername/generating-password)
+[View Repository](https://github.com/Jayasri2021/Generating-Password)
 
 ---
 
 ### 6. Speed Running Text
 ![Speed Running Text](./images/speed-running-text.png)
-[View Repository](https://github.com/yourusername/speed-running-text)
+[View Repository](https://github.com/Jayasri2021/Speed-Running-Text)
 
 ---
 
