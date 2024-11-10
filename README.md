@@ -55,13 +55,13 @@ This repository contains links to my mini front-end projects created using HTML,
 ---
 ### 9. Double Vertical Slider
 ![Double Vertical Slider](./images/double-vertical-slider.png)
-[View Repository](https://github.com/yourusername/double-vertical-slider)
+[View Repository](https://github.com/Jayasri2021/Double-Vertical-Slider)
 
 ---
 
 ### 10. Drawing App
 ![Drawing App](./images/drawing-app.png)
-[View Repository](https://github.com/yourusername/drawing-app)
+[View Repository](https://github.com/Jayasri2021/Drawing-App)
 
 ---
 
