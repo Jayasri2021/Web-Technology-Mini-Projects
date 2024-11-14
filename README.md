@@ -155,6 +155,12 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 26. Completion Steps
+![Completion Steps](./images/completion-steps.png)
+[View Repository](https://github.com/yourusername/completion-steps)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
