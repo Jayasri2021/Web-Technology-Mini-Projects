@@ -97,7 +97,7 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 16. Animated Navigation
 ![Animated Navigation](./images/animated-navigation-1.png)
-![Animated Navigation](.images/animated-navigation-2.png)
+![Animated Navigation](./images/animated-navigation-2.png)
 [View Repository](https://github.com/yourusername/animated-navigation)
 
 ---
