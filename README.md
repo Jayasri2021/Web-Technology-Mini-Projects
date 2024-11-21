@@ -134,6 +134,8 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ### 22. Animated Scroll Page
 ![Animated Scroll Page](./images/animated-scroll-page.png)
+![Animated Scroll Page](./images/animated-scroll-page-1.png)
+
 [View Repository](https://github.com/yourusername/animated-scroll-page)
 
 ---
