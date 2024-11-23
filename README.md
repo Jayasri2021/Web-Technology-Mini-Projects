@@ -136,7 +136,7 @@ This repository contains links to my mini front-end projects created using HTML,
 ![Animated Scroll Page](./images/animated-scroll-page.png)
 ![Animated Scroll Page](./images/animated-scroll-page-1.png)
 
-[View Repository](https://github.com/yourusername/animated-scroll-page)
+[View Repository](https://github.com/Jayasri2021/animated-scroll-page)
 
 ---
 
