@@ -119,6 +119,12 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 20. Wave Form Page
+![Wave Form Page](./images/wave-form-page.png)
+[View Repository](https://github.com/yourusername/wave-form-page)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
