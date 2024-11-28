@@ -125,6 +125,12 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 21. Animated Split Screen
+![Animated Split Screen](./images/animated-split-screen.png)
+[View Repository](https://github.com/yourusername/animated-split-screen)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
