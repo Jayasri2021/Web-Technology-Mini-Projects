@@ -12,6 +12,24 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 2. Adding Notes
+![Adding Notes](./images/adding-notes.png)
+[View Repository](https://github.com/Jayasri2021/Adding-Notes)
+
+---
+
+### 3. Good-Okay-Bad
+![Good-Okay-Bad](./images/good-okay-bad.png)
+[View Repository](https://github.com/yourusername/good-okay-bad)
+
+---
+
+### 4. Double Click Heart
+![Double Click Heart](./images/double-click-heart.png)
+[View Repository](https://github.com/yourusername/double-click-heart)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
