@@ -36,6 +36,12 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 6. Speed Running Text
+![Speed Running Text](./images/speed-running-text.png)
+[View Repository](https://github.com/yourusername/speed-running-text)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
