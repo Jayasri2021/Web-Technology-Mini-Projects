@@ -42,6 +42,12 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 7. Git Profile Search
+![Git Profile Search](./images/git-profile-search.png)
+[View Repository](https://github.com/yourusername/git-profile-search)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
