@@ -53,6 +53,11 @@ This repository contains links to my mini front-end projects created using HTML,
 [View Repository](https://github.com/yourusername/toast-notification)
 
 ---
+### 9. Double Vertical Slider
+![Double Vertical Slider](./images/double-vertical-slider.png)
+[View Repository](https://github.com/yourusername/double-vertical-slider)
+
+---
 
 ## How to Use
 
