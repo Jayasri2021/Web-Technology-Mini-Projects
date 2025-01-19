@@ -71,6 +71,12 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 12. Themed Analog Clock
+![Themed Analog Clock](./images/themed-analog-clock.png)
+[View Repository](https://github.com/yourusername/themed-analog-clock)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
