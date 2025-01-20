@@ -77,6 +77,12 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 13. Background Slider
+![Background Slider](./images/background-slider.png)
+[View Repository](https://github.com/yourusername/background-slider)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
