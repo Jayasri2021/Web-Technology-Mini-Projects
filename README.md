@@ -83,6 +83,12 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 14. Water Intake Measure
+![Water Intake Measure](./images/water-intake-measure.png)
+[View Repository](https://github.com/yourusername/water-intake-measure)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
