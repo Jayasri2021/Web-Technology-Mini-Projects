@@ -89,6 +89,12 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 15. Incremented Counter
+![Incremented Counter](./images/incremented-counter.png)
+[View Repository](https://github.com/yourusername/incremented-counter)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
