@@ -95,6 +95,12 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 16. Animated Navigation
+![Animated Navigation](./images/animated-navigation.png)
+[View Repository](https://github.com/yourusername/animated-navigation)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
