@@ -101,6 +101,12 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 17. FAQ Collapse
+![FAQ Collapse](./images/faq-collapse.png)
+[View Repository](https://github.com/yourusername/faq-collapse)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
