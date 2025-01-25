@@ -107,6 +107,12 @@ This repository contains links to my mini front-end projects created using HTML,
 
 ---
 
+### 18. Event Key Code
+![Event Key Code](./images/event-key-code.png)
+[View Repository](https://github.com/yourusername/event-key-code)
+
+---
+
 ## How to Use
 
 1. Clone this repository.
